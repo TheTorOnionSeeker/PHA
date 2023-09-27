@@ -1,0 +1,11 @@
+D:\GUILLE\DiscoE_Datos\# .Net Projects\slnAutoFXProfitHunter\AutoFXProfitHunter\bin\Debug\AutoFXProfitHunter.exe.config
+D:\GUILLE\DiscoE_Datos\# .Net Projects\slnAutoFXProfitHunter\AutoFXProfitHunter\bin\Debug\AutoFXProfitHunter.exe
+D:\GUILLE\DiscoE_Datos\# .Net Projects\slnAutoFXProfitHunter\AutoFXProfitHunter\bin\Debug\AutoFXProfitHunter.pdb
+D:\GUILLE\DiscoE_Datos\# .Net Projects\slnAutoFXProfitHunter\AutoFXProfitHunter\obj\Debug\AutoFXProfitHunter.csproj.AssemblyReference.cache
+D:\GUILLE\DiscoE_Datos\# .Net Projects\slnAutoFXProfitHunter\AutoFXProfitHunter\obj\Debug\AutoFXProfitHunter.csproj.SuggestedBindingRedirects.cache
+D:\GUILLE\DiscoE_Datos\# .Net Projects\slnAutoFXProfitHunter\AutoFXProfitHunter\obj\Debug\AutoFXProfitHunter.Form1.resources
+D:\GUILLE\DiscoE_Datos\# .Net Projects\slnAutoFXProfitHunter\AutoFXProfitHunter\obj\Debug\AutoFXProfitHunter.Properties.Resources.resources
+D:\GUILLE\DiscoE_Datos\# .Net Projects\slnAutoFXProfitHunter\AutoFXProfitHunter\obj\Debug\AutoFXProfitHunter.csproj.GenerateResource.cache
+D:\GUILLE\DiscoE_Datos\# .Net Projects\slnAutoFXProfitHunter\AutoFXProfitHunter\obj\Debug\AutoFXProfitHunter.csproj.CoreCompileInputs.cache
+D:\GUILLE\DiscoE_Datos\# .Net Projects\slnAutoFXProfitHunter\AutoFXProfitHunter\obj\Debug\AutoFXProfitHunter.exe
+D:\GUILLE\DiscoE_Datos\# .Net Projects\slnAutoFXProfitHunter\AutoFXProfitHunter\obj\Debug\AutoFXProfitHunter.pdb
